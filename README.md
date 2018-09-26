@@ -81,7 +81,7 @@ We now need to setup a slack app which will generate a webhook for us to send me
 
   
 
-Running the application:
+### Running the application:
 
 **npm install**
 
